@@ -1,0 +1,31 @@
+// output variables assignment
+
+ques1:-
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+	cout<<"Physics"<<endl<<"Wallah"<<endl;
+
+}
+
+ques2:-
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+	cout<<5*2<<endl;
+
+}
+
+ques3:-
+int 4 byte
+bool 1 byte
+float 4 byte
+
+
+ques4
+a=6
+b=4
